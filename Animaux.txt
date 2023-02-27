@@ -1,0 +1,93 @@
+a des poils
+!>
+est un mammifere
+!%
+nourrit ses petits au lait
+!>
+est un mammifere
+!%
+a des plumes
+!>
+est un oiseau
+!%
+vole
+pond des oeufs
+!>
+est un oiseau
+!%
+est un mammifere
+mange de la viande
+!>
+est un carnivore
+!%
+est un mammifere
+a les yeux diriges en avant
+a des dents pointues
+a des griffes
+!>
+est un carnivore
+!%
+est un mammifere
+a des ongles
+!>
+est un ongule
+!%
+est un carnivore
+est brun
+a des taches noires
+!>
+est un guepard
+!%
+est un carnivore
+est brun
+a des raies noires
+!>
+est un tigre
+!%
+est un ongule
+a un long cou
+est brun
+a des taches noires
+!>
+est une girafe
+!%
+est un ongule
+est blanc
+a des raies noires
+!>
+est un zebre
+!%
+est un oiseau
+ne vole pas
+!>
+est un oiseau non volant
+!%
+est un oiseau
+nage
+!>
+est un oiseau non volant
+!%
+est un oiseau non volant
+a des pattes longues
+a un long cou
+est noir et blanc
+!>
+est une autruche
+!%
+est un oiseau non volant
+a des pattes palmees
+est noir et blanc
+!>
+est un pingouin
+!%
+est un oiseau
+vole remarquablement
+!>
+est un albatros
+!!
+a des poils
+a des dents pointues
+a des griffes
+a les yeux diriges en avant
+est brun
+a des taches noires
